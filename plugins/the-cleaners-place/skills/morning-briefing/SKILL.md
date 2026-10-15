@@ -1,6 +1,6 @@
 ---
 name: morning-briefing
-description: Owner/manager daily briefing for The Cleaners Place: today's jobs, what needs attention, money due, and requests waiting. Use when the user says good morning, asks what's going on today, or wants a status check on the business.
+description: "Owner/manager daily briefing for The Cleaners Place: today's jobs, what needs attention, money due, and requests waiting. Use when the user says good morning, asks what's going on today, or wants a status check on the business."
 ---
 
 # Morning briefing (owner / manager)

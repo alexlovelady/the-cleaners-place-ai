@@ -1,6 +1,6 @@
 ---
 name: my-day
-description: Cleaner's daily helper for The Cleaners Place: today's jobs and route, access notes, checking in and out, and completing a job. Use when a cleaner asks what they have today, where to go next, or wants to clock in/out or finish a job.
+description: "Cleaner's daily helper for The Cleaners Place: today's jobs and route, access notes, checking in and out, and completing a job. Use when a cleaner asks what they have today, where to go next, or wants to clock in/out or finish a job."
 ---
 
 # My day (cleaner)

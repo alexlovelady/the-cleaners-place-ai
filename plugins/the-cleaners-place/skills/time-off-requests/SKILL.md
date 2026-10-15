@@ -1,6 +1,6 @@
 ---
 name: time-off-requests
-description: Review and decide staff time-off requests in The Cleaners Place, checking the schedule for clashes first. Use when the user asks about time off, vacation, or who is out.
+description: "Review and decide staff time-off requests in The Cleaners Place, checking the schedule for clashes first. Use when the user asks about time off, vacation, or who is out."
 ---
 
 # Time-off requests (owner / manager)

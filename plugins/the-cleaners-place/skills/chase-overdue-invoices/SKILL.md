@@ -1,6 +1,6 @@
 ---
 name: chase-overdue-invoices
-description: Collect overdue payments in The Cleaners Place: review overdue invoices, decide per customer whether to re-send, charge the card on file, or send a card-setup link. Use when the user asks about unpaid or overdue invoices or wants to get paid.
+description: "Collect overdue payments in The Cleaners Place: review overdue invoices, decide per customer whether to re-send, charge the card on file, or send a card-setup link. Use when the user asks about unpaid or overdue invoices or wants to get paid."
 ---
 
 # Chase overdue invoices (owner / manager)

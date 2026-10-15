@@ -1,6 +1,6 @@
 ---
 name: my-pay-and-time-off
-description: Cleaner self-service for The Cleaners Place: expected pay and payout status, expenses, and requesting time off. Use when a cleaner asks about their pay, a missing payout, a reimbursement, or wants a day off.
+description: "Cleaner self-service for The Cleaners Place: expected pay and payout status, expenses, and requesting time off. Use when a cleaner asks about their pay, a missing payout, a reimbursement, or wants a day off."
 ---
 
 # My pay, expenses and time off (cleaner)

@@ -1,6 +1,6 @@
 ---
 name: plan-my-week
-description: Review and fix next week's schedule in The Cleaners Place: unassigned jobs, double bookings, time-off clashes, gaps, and route order. Use when the user wants to plan, tidy, or rebalance the schedule.
+description: "Review and fix next week's schedule in The Cleaners Place: unassigned jobs, double bookings, time-off clashes, gaps, and route order. Use when the user wants to plan, tidy, or rebalance the schedule."
 ---
 
 # Plan the week (owner / manager)

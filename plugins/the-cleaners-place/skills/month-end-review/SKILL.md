@@ -1,6 +1,6 @@
 ---
 name: month-end-review
-description: Month-end or quarter review for The Cleaners Place: revenue, profit, expenses, receivables, tax set-aside, and what to fix before closing the books. Use when the user asks how the business is doing, for reports, profit, or tax prep.
+description: "Month-end or quarter review for The Cleaners Place: revenue, profit, expenses, receivables, tax set-aside, and what to fix before closing the books. Use when the user asks how the business is doing, for reports, profit, or tax prep."
 ---
 
 # Month-end review (owner / manager)

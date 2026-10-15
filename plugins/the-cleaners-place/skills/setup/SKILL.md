@@ -1,6 +1,6 @@
 ---
 name: setup
-description: First-time setup and orientation for The Cleaners Place connection. Use when the user has just installed the plugin, asks what they can do, or when a tool says AI access is not enabled.
+description: "First-time setup and orientation for The Cleaners Place connection. Use when the user has just installed the plugin, asks what they can do, or when a tool says AI access is not enabled."
 ---
 
 # Getting started with The Cleaners Place

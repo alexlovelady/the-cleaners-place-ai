@@ -1,6 +1,6 @@
 ---
 name: pay-day
-description: Run staff pay in The Cleaners Place: review or create a pay run, check hours and adjustments, finalize it, and pay staff through Stripe. Use when the user mentions pay run, payroll, paying the team, or payouts.
+description: "Run staff pay in The Cleaners Place: review or create a pay run, check hours and adjustments, finalize it, and pay staff through Stripe. Use when the user mentions pay run, payroll, paying the team, or payouts."
 ---
 
 # Pay day (owner / manager)

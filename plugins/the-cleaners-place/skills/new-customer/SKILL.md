@@ -1,6 +1,6 @@
 ---
 name: new-customer
-description: Onboard a new customer in The Cleaners Place from first contact to first clean: create the customer and property, send a quote or book the job, set up recurring service. Use when the user mentions a new lead, a new customer, or wants to quote or book someone.
+description: "Onboard a new customer in The Cleaners Place from first contact to first clean: create the customer and property, send a quote or book the job, set up recurring service. Use when the user mentions a new lead, a new customer, or wants to quote or book someone."
 ---
 
 # New customer to first clean (owner / manager)
