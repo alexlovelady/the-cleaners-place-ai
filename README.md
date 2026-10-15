@@ -31,16 +31,26 @@ Restart the app, open Plugins, install **The Cleaners Place**. Installing only a
 
 | Skill | For | What it does |
 | --- | --- | --- |
-| setup | everyone | explains what you can do and the safety rules |
+| setup | everyone | explains what you can do, the safety rules, and how to reach support |
 | morning-briefing | owner / manager | today's jobs, what needs attention, money due |
+| end-of-day-wrap-up | owner / manager | unfinished jobs, clock times, tomorrow's schedule |
 | plan-my-week | owner / manager | fix double bookings, assign, reschedule, route order |
 | chase-overdue-invoices | owner / manager | collect what is owed, one confirmed step at a time |
+| quote-followup | owner / manager | chase unanswered quotes, book or close them |
 | new-customer | owner / manager | customer, property, quote or booking, recurring service |
+| reactivate-lapsed-customers | owner / manager | find customers who stopped booking and win them back |
+| weekly-review-run | owner / manager | ask recent customers for reviews, one by one |
+| recurring-schedule-health-check | owner / manager | crews, holds and gaps on repeat customers |
+| handle-incident-or-complaint | owner / manager | from first report to resolution, refunds go to support |
+| hire-and-onboard-cleaner | owner / manager | invite, onboarding checklist, documents, pay, first jobs |
+| time-off-requests | owner / manager | decide requests with schedule impact |
+| team-and-keys-audit | owner / manager | expiring documents, onboarding gaps, key access |
+| supply-restock | owner / manager | what is low, record the purchase |
 | pay-day | owner / manager | review, finalize and pay a pay run |
 | month-end-review | owner / manager | revenue, profit, expenses, receivables |
-| time-off-requests | owner / manager | decide requests with schedule impact |
-| my-day | cleaner | today's jobs, route, check in/out, complete a job |
-| my-pay-and-time-off | cleaner | pay status, expenses, time off |
+| tax-season-prep | owner / manager | totals and missing items for your accountant |
+| my-day | cleaner | today's jobs, route, check in/out, notes, complete a job |
+| my-pay-and-time-off | cleaner | pay status, expenses, time off, report a pay problem |
 
 ## Safety
 

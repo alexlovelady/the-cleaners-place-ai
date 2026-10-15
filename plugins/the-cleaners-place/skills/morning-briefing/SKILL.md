@@ -18,4 +18,4 @@ Write the briefing as:
 - **Money:** overdue total, biggest overdue customers.
 - **Suggested next steps:** at most three, each one phrased as something you can do right now ("Assign Maria to the 2pm Hill St clean?").
 
-Do not take any action without being asked. If a section has nothing, skip it rather than saying "nothing".
+For a fuller snapshot (revenue against last month, customers, low supplies, staff documents about to expire) call `get_dashboard_summary`. Do not take any action without being asked. If a section has nothing, skip it rather than saying "nothing".

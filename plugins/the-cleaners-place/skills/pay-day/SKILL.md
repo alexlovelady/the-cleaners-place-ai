@@ -13,4 +13,8 @@ Payouts move real money. Go slowly and confirm every step.
 4. When the numbers are right, `finalize_pay_run` (confirmation required).
 5. To pay by Stripe: `pay_line_via_stripe` for each person who has payouts set up (confirmation required; the preview shows the recipient, amount and funding source). Paying many people means one confirmation per person. If a payout fails, `retry_stripe_payout` retries only the transfer and never charges the owner again. `list_upcoming_payouts` shows what is still owed.
 
-Never pay a line the user has not explicitly approved. If the owner's funding source is not set up, explain that and stop.
+- Paid in cash, Zelle or cheque rather than Stripe: once the run is finalized, `set_pay_line_paid` records the line as paid (confirmation required; it moves no money, so say that).
+- Wrong dates: `update_pay_run_period` rebuilds the run for a new period (confirmation required; only if nothing has been paid yet; read the preview of what changes).
+- A cleaner's Stripe setup looks stuck: `refresh_cleaner_payout_status` re-checks it.
+
+Setting pay, finalizing a run and paying through Stripe each return an approval link as well as a preview: the user must open it and click Approve themselves before you can continue. Never pay a line the user has not explicitly approved. If the owner's funding source is not set up, explain that and stop.
