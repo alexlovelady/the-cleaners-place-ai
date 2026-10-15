@@ -1,0 +1,15 @@
+{
+  "name": "the-cleaners-place",
+  "owner": { "name": "The Cleaners Place", "email": "support@thecleanersplace.com" },
+  "metadata": { "description": "Run your cleaning business from Claude: schedule, customers, invoices, pay and more." },
+  "plugins": [
+    {
+      "name": "the-cleaners-place",
+      "source": "./plugins/the-cleaners-place",
+      "description": "Manage your cleaning business in The Cleaners Place by chatting: today's jobs, customers, quotes, invoices, pay runs and reports. Includes ready-made workflows for owners, managers and cleaners.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["cleaning", "scheduling", "invoicing", "field service", "small business"]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "the-cleaners-place": {
+      "type": "http",
+      "url": "https://thecleanersplace.com/mcp"
+    }
+  }
+}
