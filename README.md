@@ -23,7 +23,7 @@ Prefer not to use plugins? Add the connector directly: Claude, Settings, Connect
 codex plugin marketplace add alexlovelady/the-cleaners-place-ai
 ```
 
-Restart the app, open Plugins, install **The Cleaners Place**, then Authenticate. Direct route: Settings, Plugins, Add, Add MCP server, Streamable HTTP, URL `https://thecleanersplace.com/mcp`.
+Restart the app, open Plugins, install **The Cleaners Place**. Installing only adds it: then open the **MCPs** tab in Plugins, find **The Cleaners Place** and click **Authenticate** (sign in and allow access). Direct route: Settings, Plugins, Add, Add MCP server, Streamable HTTP, URL `https://thecleanersplace.com/mcp`.
 
 ## What is inside
 

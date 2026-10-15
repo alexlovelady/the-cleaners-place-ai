@@ -7,7 +7,7 @@ description: "First-time setup and orientation for The Cleaners Place connection
 
 1. Call `whoami`. It tells you who you are acting as, the company, plan status, and which actions this role allows.
 2. If any call fails with "AI access is not enabled for this company": the **account owner** must open **The Cleaners Place, AI assistant** in the dashboard (`/dashboard/ai`) and turn on AI access. Tell the user exactly that. Do not retry.
-3. If a call fails because the connection expired, ask the user to reconnect the plugin (they will be asked to sign in again).
+3. If a call fails because the connection expired, ask the user to reconnect the plugin (they will be asked to sign in again; in ChatGPT that is Plugins, the MCPs tab, then Authenticate next to The Cleaners Place).
 4. Explain to the user, in plain language and matched to their role, what they can ask:
    - **Owner / manager:** today's and this week's jobs, customers, quotes, invoices, pay runs, expenses, reports, staff and time off, plus creating and updating those.
    - **Cleaner:** their own jobs and route, check in and out, their pay and expenses, time off, reporting an incident.
