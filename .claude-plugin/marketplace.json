@@ -7,7 +7,7 @@
       "name": "the-cleaners-place",
       "source": "./plugins/the-cleaners-place",
       "description": "Manage your cleaning business in The Cleaners Place by chatting: today's jobs, customers, quotes, invoices, pay runs and reports. Includes ready-made workflows for owners, managers and cleaners.",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "category": "productivity",
       "keywords": ["cleaning", "scheduling", "invoicing", "field service", "small business"]
     }
