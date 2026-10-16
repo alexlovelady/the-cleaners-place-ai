@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "the-cleaners-place",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Run your cleaning business from ChatGPT: today's jobs, customers, quotes, invoices, pay runs and reports, with ready-made workflows for owners, managers and cleaners.",
   "author": { "name": "The Cleaners Place", "url": "https://thecleanersplace.com" },
   "homepage": "https://thecleanersplace.com/dashboard/ai",
