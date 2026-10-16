@@ -1,12 +1,20 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "the-cleaners-place",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Run your cleaning business from ChatGPT: today's jobs, customers, quotes, invoices, pay runs and reports, with ready-made workflows for owners, managers and cleaners.",
-  "author": { "name": "The Cleaners Place", "url": "https://thecleanersplace.com" },
+  "author": {
+    "name": "The Cleaners Place",
+    "url": "https://thecleanersplace.com"
+  },
   "homepage": "https://thecleanersplace.com/dashboard/ai",
   "license": "UNLICENSED",
-  "keywords": ["cleaning", "scheduling", "invoicing", "field service"],
+  "keywords": [
+    "cleaning",
+    "scheduling",
+    "invoicing",
+    "field service"
+  ],
   "extensions": {
     "com.openai": {
       "onboardingSkill": "./skills/setup/SKILL.md",
@@ -16,12 +24,21 @@
         "longDescription": "Connect your The Cleaners Place account to check today's jobs, find customers, send quotes and invoices, review pay runs and see reports. It only does what your role can already do, and asks you to confirm anything that spends money, emails a customer, or deletes data.",
         "developerName": "The Cleaners Place",
         "category": "Productivity",
-        "capabilities": ["Read", "Write"],
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
         "websiteURL": "https://thecleanersplace.com",
         "privacyPolicyURL": "https://thecleanersplace.com/privacy",
         "termsOfServiceURL": "https://thecleanersplace.com/terms",
-        "defaultPrompt": ["What's on my schedule today?", "Which invoices are overdue?", "Plan my week"],
-        "brandColor": "#14B8A6"
+        "defaultPrompt": [
+          "What's on my schedule today?",
+          "Which invoices are overdue?",
+          "Plan my week"
+        ],
+        "brandColor": "#14B8A6",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png"
       }
     }
   }
