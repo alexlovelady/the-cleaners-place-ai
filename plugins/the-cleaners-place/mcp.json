@@ -3,7 +3,7 @@
   "mcpServers": {
     "the-cleaners-place": {
       "type": "streamable-http",
-      "url": "https://thecleanersplace.com/mcp"
+      "url": "https://thecleanersplace.com/mcp/grouped"
     }
   }
 }
